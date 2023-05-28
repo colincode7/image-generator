@@ -4,3 +4,6 @@ Stable Diffusion Image Generation React application that leverages the power of 
 
 ### Example Output
 ![image](https://github.com/petermartens98/AI-Stable-Diffusion-Image-Generator-React-Apo/assets/87671757/a5ff321d-62c0-4535-bd93-37523104425d)
+
+### Notes
+If interested in cloning, user will have to get a free hugging face authorization write token and input into API_TOKEN in components/ImageGen.jsx
